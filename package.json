@@ -1,0 +1,13 @@
+{
+  "name": "react_nodejs",
+  "version": "1.0.0",
+  "description": "curso react e node",
+  "main": "index.js",
+  "repository": "https://github.com/Jreng7/react_nodejs",
+  "author": "Josué R S Jacinto <jr.waydev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
